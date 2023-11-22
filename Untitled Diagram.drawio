@@ -1,4 +1,4 @@
-<mxfile modified="2023-11-22T07:43:22.560Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="pibSTAL4Ts9cllZIoDVC" version="22.1.3" type="github">
+<mxfile modified="2023-11-22T07:49:05.105Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="9EFc9_EvZMCoSHnUYK6B" version="22.1.3" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1050" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="28heIlWIprtDJxRmpmQK-7" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="103.5" y="253" width="23" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="28heIlWIprtDJxRmpmQK-16" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="28heIlWIprtDJxRmpmQK-16" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="583.5" y="200" width="23" height="23" as="geometry" />
         </mxCell>
         <mxCell id="rI1JX8pW7Fap40Gf1UJg-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEDED;fontSize=22;fontColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
@@ -124,6 +124,15 @@
             <mxPoint x="599.95" y="473" as="sourcePoint" />
             <mxPoint x="600" y="409" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tRJ_MI_NQyfIwvav8pNK-41" value="&lt;h1&gt;Streaming&lt;/h1&gt;&lt;p&gt;Promtail sending a stream data direct to loki&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="500" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tRJ_MI_NQyfIwvav8pNK-42" value="&lt;h1&gt;Dashboard&lt;/h1&gt;Prometheus exporter for hardware and OS metrics exposed by *NIX kernels, written&lt;br/&gt;in Go with pluggable metric collectors" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="319" y="266.5" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tRJ_MI_NQyfIwvav8pNK-43" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="583.5" y="500" width="23" height="23" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
